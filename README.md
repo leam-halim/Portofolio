@@ -7,7 +7,7 @@ Perkenalkan, saya **Gulamin Halim**. Pada kesempatan ini, saya ingin membagikan 
 > [!NOTE]  
 > Proyek/template portofolio ini didasarkan dan dikembangkan menggunakan template milik **EkiZR** dari repositori [Portofolio_V5](https://github.com/EkiZR/Portofolio_V5.git).
 
-**Live Demo:** [https://portofolio-three-mu-74.vercel.app/]
+**Live Demo:** [Portofolio Gulam](https://portofolio-three-mu-74.vercel.app/)
 
 ---
 
@@ -275,7 +275,7 @@ Unggah seluruh konten yang ada di dalam folder `dist/` ke penyedia layanan hosti
 ## Kredit & Kontak
 
 **Gulamin Halim**  
-Website: [https://portofolio-three-mu-74.vercel.app/] · GitHub: [leam-halim](https://github.com/leam-halim)
+Website: [Portofolio Gulam](https://portofolio-three-mu-74.vercel.app/) · GitHub: [Gulamin Halim](https://github.com/leam-halim)
 
 Terima kasih kepada [LottieFiles](https://lottiefiles.com/free-animation/coding-NWhbxMOVgP), Claude, dan basis template asli dari [EkiZR (Portofolio_V5)](https://github.com/EkiZR/Portofolio_V5.git).
 
